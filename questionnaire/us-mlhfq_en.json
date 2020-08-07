@@ -1,0 +1,869 @@
+{
+	"id": "us-mlhfq/en",
+	"name": "Minnesota Living with Heart Failure Questionnaire",
+	"description": "The following questions ask how much your heart failure (heart condition) affected your life during the past month (4 weeks). After each question, check the 0, 1, 2, 3, 4 or 5 to show how much your life was affected. If a question does not apply to you, check the 0 after that question.",
+	"instructions": "1. Subjects should respond to the questionnaire prior to other assessments and interactions that may bias their responses. You might tell the respondent that you would like to get his or her opinion before doing a medical assessment.\n2. Ample, uninterrupted time should be provided for the subject to complete the questionnaire. Subjects should answer the questions without being influenced by others such as their spouse or family members who may have different perspectives than the subjects.\n3. We recommend that you use the first question to give the respondent more detailed instructions as follows.\n    * Read the introductory paragraph at the top of the questionnaire.\n    * Read the first question with the respondent – “Did your heart failure prevent you living as you wanted during the last month (4 weeks) by causing swelling in your ankles or legs?”\n        + If you did not have any ankle or leg swelling during the past month (4 weeks) you should circle the zero (0) after this question.\n        + If you did have swelling that was caused by a sprained ankle or some other cause that you are sure was not related to heart failure, you should circle the zero (0) after this question.\n        + If you had swelling that might be related to your heart condition, then rate how much the swelling prevented you from doing things you wanted to do or feeling the way you would like to feel. In other words, how much did the swelling affect your life? Circle either the 0, 1, 2, 3, 4 or 5 to indicate how much the swelling affected your life during the past month – zero (0) means not at all, one (1) means very little and five (5) very much.\n4. Ask the respondent to read and respond to all 21 questions. The entire questionnaire may be read directly to the respondent if one is careful not to influence responses by verbal or physical cues.\n5. Check to make sure the respondent has responded to each question. If a question does not apply to the respondent they should circle the zero (0). Make sure there is only one answer clearly marked for each question.",
+	"questions": [
+		{
+			"id": "q1",
+			"order": 1,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by causing swelling in your ankles or legs?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q2",
+			"order": 2,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you sit or lie down to rest during the day?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q3",
+			"order": 3,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your walking about or climbing stairs difficult?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q4",
+			"order": 4,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your working around the house or yard difficult?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q5",
+			"order": 5,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your going places away from home difficult?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q6",
+			"order": 6,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your sleeping well at night difficult?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q7",
+			"order": 7,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your relating to or doing things with your friends or family difficult?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q8",
+			"order": 8,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your working to earn a living difficult?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q9",
+			"order": 9,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your recreational pastimes, sports or hobbies difficult?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q10",
+			"order": 10,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your sexual activities difficult?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q11",
+			"order": 11,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you eat less of the foods you like?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q12",
+			"order": 12,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you short of breath?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q13",
+			"order": 13,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you tired, fatigued, or low on energy?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q14",
+			"order": 14,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you stay in a hospital?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q15",
+			"order": 15,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by costing you money for medical care?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q16",
+			"order": 16,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by giving you side effects from treatments?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q17",
+			"order": 17,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you feel you are a burden to your family or friends?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q18",
+			"order": 18,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you feel a loss of self-control in your life?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q19",
+			"order": 19,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you worry?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q20",
+			"order": 20,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making it difficult for you to concentrate or remember things?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		},
+		{
+			"id": "q21",
+			"order": 21,
+			"text": "Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you feel depressed?",
+			"responseRequired": true,
+			"responseType": "single-choice",
+			"response": {
+				"choices": [
+					{
+						"order": 1,
+						"text": "No",
+						"value": 0
+					},
+					{
+						"order": 2,
+						"text": "Very little",
+						"value": 1
+					},
+					{
+						"order": 3,
+						"text": null,
+						"value": 2
+					},
+					{
+						"order": 4,
+						"text": null,
+						"value": 3
+					},
+					{
+						"order": 5,
+						"text": null,
+						"value": 4
+					},
+					{
+						"order": 6,
+						"text": "Very much",
+						"value": 5
+					}
+				]
+			}
+		}
+	]
+}
