@@ -47,7 +47,7 @@
 		},
 		{
 			"id": "q2",
-			"order": 1,
+			"order": 2,
 			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à prendre une douche/un bain ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -88,7 +88,7 @@
 		},
 		{
 			"id": "q3",
-			"order": 1,
+			"order": 3,
 			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à marcher environ 100 mètres sur terrain plat ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -129,7 +129,7 @@
 		},
 		{
 			"id": "q4",
-			"order": 1,
+			"order": 4,
 			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à faire du jardinage, le ménage, ou porter les courses ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -170,7 +170,7 @@
 		},
 		{
 			"id": "q5",
-			"order": 1,
+			"order": 5,
 			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à monter une volée d'escalier ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -211,7 +211,7 @@
 		},
 		{
 			"id": "q6",
-			"order": 1,
+			"order": 6,
 			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à faire du jogging ou vous dépêcher (comme pour ne pas manquer un bus) ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -252,7 +252,7 @@
 		},
 		{
 			"id": "q7",
-			"order": 1,
+			"order": 7,
 			"text": "Par rapport à il y a 2 semaines, vos symptômes d’insuffisance cardiaque (par exemple, essoufflement, fatigue ou gonflement des chevilles) ont-ils changé ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -293,7 +293,7 @@
 		},
 		{
 			"id": "q8",
-			"order": 1,
+			"order": 8,
 			"text": "Ces 2 dernières semaines, combien de fois vous êtes-vous réveillé(e), le matin, avec les chevilles, les jambes ou les pieds gonflés ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -329,7 +329,7 @@
 		},
 		{
 			"id": "q9",
-			"order": 1,
+			"order": 9,
 			"text": "Ces 2 dernières semaines, dans quelle mesure avez-vous été gêné(e) par le gonflement de vos pieds, chevilles ou jambes ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -370,7 +370,7 @@
 		},
 		{
 			"id": "q10",
-			"order": 1,
+			"order": 10,
 			"text": "Ces 2 dernières semaines, en moyenne, combien de fois la fatigue a-t-elle limité votre capacité à faire ce que vous vouliez ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -416,7 +416,7 @@
 		},
 		{
 			"id": "q11",
-			"order": 1,
+			"order": 11,
 			"text": "Ces 2 dernières semaines, dans quelle mesure la fatigue vous a-t-elle gêné(e) ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -457,7 +457,7 @@
 		},
 		{
 			"id": "q12",
-			"order": 1,
+			"order": 12,
 			"text": "Ces 2 dernières semaines, en moyenne, combien de fois un essoufflement a-t-il limité votre capacité à faire ce que vous vouliez ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -503,7 +503,7 @@
 		},
 		{
 			"id": "q13",
-			"order": 1,
+			"order": 13,
 			"text": "Ces 2 dernières semaines, dans quelle mesure votre essoufflement vous a-t-il gêné(e) ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -544,7 +544,7 @@
 		},
 		{
 			"id": "q14",
-			"order": 1,
+			"order": 14,
 			"text": "Ces 2 dernières semaines, en moyenne, combien de fois avez-vous dû dormir assis(e) dans un fauteuil ou soutenu(e) par au moins 3 oreillers à cause de problèmes d’essoufflement ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -580,7 +580,7 @@
 		},
 		{
 			"id": "q15",
-			"order": 1,
+			"order": 15,
 			"text": "Les symptômes d’insuffisance cardiaque peuvent s’aggraver pour diverses raisons. Dans quelle mesure êtes-vous sûr(e) de savoir quoi faire ou qui appeler si votre insuffisance cardiaque s’aggrave ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -616,7 +616,7 @@
 		},
 		{
 			"id": "q16",
-			"order": 1,
+			"order": 16,
 			"text": "Dans quelle mesure comprenez-vous ce que vous pouvez faire pour éviter que les symptômes liés à votre insuffisance cardiaque s’aggravent (par exemple, vous peser régulièrement, suivre un régime pauvre en sel, etc.) ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -652,7 +652,7 @@
 		},
 		{
 			"id": "q17",
-			"order": 1,
+			"order": 17,
 			"text": "Ces 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque vous a-t-elle empêché(e) de profiter de la vie ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -688,7 +688,7 @@
 		},
 		{
 			"id": "q18",
-			"order": 1,
+			"order": 18,
 			"text": "Si vous deviez passer le reste de votre vie dans votre état actuel d’insuffisance cardiaque, quel serait votre sentiment à ce sujet ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -724,7 +724,7 @@
 		},
 		{
 			"id": "q19",
-			"order": 1,
+			"order": 19,
 			"text": "Ces 2 dernières semaines, vous êtes vous senti(e) découragé(e) ou déprimé(e) à cause de votre insuffisance cardiaque ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -760,7 +760,7 @@
 		},
 		{
 			"id": "q20",
-			"order": 1,
+			"order": 20,
 			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter votre participtation à des loisirs et hobbies ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -793,14 +793,15 @@
 					},
 					{
 						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité"
+						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+						"value": 5
 					}
 				]
 			}
 		},
 		{
-			"id": "q20",
-			"order": 1,
+			"id": "q21",
+			"order": 21,
 			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter votre participtation à des activités professionnelles ou tâches ménagères ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -833,14 +834,15 @@
 					},
 					{
 						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité"
+						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+						"value": 5
 					}
 				]
 			}
 		},
 		{
-			"id": "q20",
-			"order": 1,
+			"id": "q22",
+			"order": 22,
 			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter vos visites à des parents ou à des amis ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -873,14 +875,15 @@
 					},
 					{
 						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité"
+						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+						"value": 5
 					}
 				]
 			}
 		},
 		{
-			"id": "q20",
-			"order": 1,
+			"id": "q23",
+			"order": 23,
 			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter vos relations intimes ou sexuelles ?",
 			"responseRequired": true,
 			"responseType": "single-choice",
@@ -913,7 +916,8 @@
 					},
 					{
 						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité"
+						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+						"value": 5
 					}
 				]
 			}
