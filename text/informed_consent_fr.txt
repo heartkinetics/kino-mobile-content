@@ -1,1 +1,16 @@
-Informed Consent Text
+Si vous participez à cette recherche, vous devez savoir que :
+- Cette étude clinique est mise en œuvre après évaluation par un comité d’éthique.
+- Votre participation est volontaire et doit rester libre de toute contrainte. Elle nécessite la signature d’un document exprimant votre consentement. Même après l’avoir signé, vous pouvez  arrêter de participer en informant le médecin investigateur. Votre décision de ne pas ou de ne plus participer à l’étude n’aura aucun impact sur vos relations avec l’investigateur.
+- Aucun frais ne vous sera facturé pour les examens lors cette étude.
+- Les données recueillies à cette occasion sont confidentielles et votre anonymat est garanti lors de la publication des résultats. Une assurance a été souscrite au cas où vous subiriez un dommage lié à votre participation à cette recherche.
+- Vous pouvez toujours contacter l’investigateur ou un membre de son équipe si vous avez besoin d’informations complémentaires.
+
+Consentement éclairé:
+Je déclare que j’ai été informé sur la nature de l’étude, son but, sa durée, les risques ou inconvénients éventuels et ce que l’on attend de moi.  J’ai pris connaissance du document d’information et des annexes à ce document.
+J’ai eu suffisamment de temps pour y réfléchir et en parler avec une personne de mon choix comme mon médecin généraliste ou un membre de ma famille.
+J’ai eu l’occasion de poser toutes les questions qui me sont venues à l’esprit et j’ai obtenu une réponse satisfaisante à mes questions.
+J’ai compris que ma participation à cette étude est volontaire et que je suis libre de mettre fin à ma participation à cette étude sans que cela ne modifie mes relations avec l’investigateur.
+J’ai compris que des données me concernant seront récoltées pendant toute ma participation à cette étude et que l’investigateur et le promoteur se portent garant de la confidentialité de ces données.
+Je consens au traitement de mes données personnelles selon les modalités décrites dans la rubrique traitant de garanties de confidentialité (annexe).
+J’accepte / n’accepte pas (biffer la mention inutile) que les données de recherche récoltées pour les objectifs de la présente étude puissent être traitées ultérieurement pour autant que ce traitement soit limité au contexte de la présente étude et soumis à l’approbation du comité d’éthique.
+J’ai reçu une copie de l’information au participant et du consentement éclairé.
