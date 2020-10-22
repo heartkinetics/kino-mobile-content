@@ -1,1 +1,78 @@
-Privacy Policy Text
+Données collectées
+------------------
+En acceptant ce contrat, l’utilisateur donne accès à HeartKinetics, et aux équipes cliniques référentes, aux données citées ci-après. 
+Elles sont divisées dans les catégories suivantes : 
+les informations et données à caractère personnel que l’utilisateur nous donne; 
+les données et informations que nous récupérons à l’aide des capteurs du smartphone piloté par l’application;
+les données techniques concernant l’utilisation et la performance de l’application.
+
+Nous avons mis en place les mesures adéquates pour que vos données personnelles soient traitées dans le respect des obligations de sécurité imposées par la législation du PGRD.
+
+
+Traitement des données
+----------------------
+Les données personnelles collectées sont utilisées pour identifier l’utilisateur et le lier aux données physiques sur sa fonction cardiaque et pulmonaire qu’il contribue à collecter.
+L’identification du sujet se fait par la création d’un compte, qui requiert le nom de l’utilisateur et son adresse email.
+Les accéléromètres et gyroscopes du téléphone sont utilisés pour mesurer les vibrations de la cage thoracique de l’utilisateur qui sont générées par ses processus physiologiques vitaux : ses contractions cardiaques et le mouvement du sang suite à son éjection ainsi que sa fonction respiratoire.
+Les données suivantes sont calculées :
+Amplitude des mouvements respiratoires ainsi que leur fréquence
+Rythme cardiaque et variabilité du rythme cardiaque
+Force, énergie cinétique et puissance de la contraction cardiaque
+Distribution de la densité d’énergie au cours du cycle cardiaque
+Instants relatifs aux différentes phases du cycle cardiaque
+Les données supplémentaires suivantes sont collectées et utilisées de manière à améliorer la qualité du traitement des données du patients ainsi que de les personnaliser:
+La marque, le modèle et le numéro de version du téléphone portable; ils permettent de récupérer des informations sur celui-ci telles que ses caractéristiques physiques (dimensions et poids) qui nous permettent de calibrer nos données.
+Les données d’heure et de date permettent au patient de garder un suivi de ses enregistrements. Les autres informations personnelles permettent d’analyser les valeurs calculées.
+Les données de géolocalisation permettent d’avoir un contexte global de la prise de mesure. Ainsi nous pourrions par exemple étudier la distribution géographique des pathologies cardiaques.
+Les données supplémentaires collectées permettent de proposer à nos utilisateurs une plateforme performante et une expérience personnalisée. Elles nous permettent également de développer de nouveaux services. 
+
+
+Stockage des données
+--------------------
+Les données sont stockées à la fois sur le portable de l’usager et sur nos serveurs en ligne, physiquement situés en Europe.
+Elles sont supprimées lorsque l’utilisateur le demande. Pour cela, il lui suffit de se rendre dans son profil et de demander la suppression de ses données.
+
+
+Communication à des entreprises tierces
+---------------------------------------
+
+Vos données personnelles et médicales sont communiquées et partagées avec votre hôpital et les médecins que vous aurez renseigné dans votre profil. Ceci afin que votre équipe médicale puisse y avoir accès. Ils auront accès aux informations suivantes : 
+Nom, Prénom, Genre, Taille, Poids, Date de naissance, Nom de votre Médecin généraliste et de votre Cardiologue, les informations relatives à votre pathologie ainsi qu’à votre traitement, Les réponses des questionnaires standardisés auxquels vous avez répondu, y compris la date et l’heure à laquelle vous avez répondu au questionnaire, Aux données physiques et physiologiques des enregistrements de votre fonction cardiaque et respiratoire.
+Seul le personnel soignant et habilité de l’hôpital avec lequel vous vous êtes enregistrés lors de votre inscription aura accès à vos données personnelles.
+Les données physiques et physiologiques qui concernent votre fonction cardiaque et pulmonaire seront traitées de manière anonymisée; ceci veut dire qu’elles seront dépouillées de tout élément permettant de les lier à votre profil. Elles seront alors mises à disposition du personnel de HeartKinetics ainsi qu’aux équipes scientifiques qui participent aux études de validation et qui participent également à l’amélioration de nos solutions. Elles pourront également servir à des études statistiques visant à mettre en avant les bénéfices de la solution.  En aucun cas vos données personnelles et médicales ne sont transmises à des tiers.
+Vos données peuvent être traitées par des sous-traitants qui fournissent des services en notre nom et selon nos instructions, comme, par exemple, des gestionnaires de bases de données. Nous vous garantissons que ces fournisseurs ont accès uniquement à vos données dans la mesure où cela s’avère nécessaire pour exécuter leurs tâches. Nous garantissons également qu’ils sont liés par une obligation de confidentialité et qu’ils ne peuvent traiter les données que conformément aux instructions que nous leur avons données.
+
+
+Transmission des données
+------------------------
+
+Les données ne seront pas transmises à d’autres entreprises que celles citées précédemment sans l’accord préalable de l’utilisateur, sauf si :
+Le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis
+Le traitement est nécessaire à l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement
+Dans ces cas, un protocole est rédigé puis publié sur le site internet du contrôleur des données.
+
+
+Protection des données
+----------------------
+
+La protection de vos droits et de votre liberté est très importante. Pour cela, nous avons choisi de nous associer avec une société spécialisée dans le domaine: PrYv . Ainsi nous sommes sûrs que vos données sont protégées correctement. 
+
+
+Droit des utilisateurs
+----------------------
+
+Nous voulons être sûrs que vous avez pris connaissance de vos droits relatifs à vos données personnelles que nous traitons. 
+Si vous désirez exercer ces droits, veuillez nous contacter de l’une de manière suivante: 
+par courrier postal envoyé à HeartKinetics SRL, rue Auguste Piccard 48, à 6041 Gosselies, Belgique
+par courriel à privacy @ okcardio.com
+Veuillez joindre à ce courrier une copie de votre document d’identité, laquelle sera détruite une fois votre demande traitée. Si votre demande devait relever de la responsabilité de l’hôpital ou votre médecin référent, HeartKinetics vous en informera. 
+Vos droits sont décrits en détail ci dessous. Vous avez droit à:
+- Retirer votre consentement – Vous avez le droit de retirer votre consentement à n’importe quel moment. Cela n’affectera pas la légitimité du traitement des données basé sur le consentement avant votre retrait.
+- Accéder à vos données – Vous pouvez demander des copies de vos données personnelles. Vous pouvez également demander des informations complémentaires les concernant sur la finalité du traitement, les catégories de données, l'existence de destinataires tiers éventuels, la durée de conservation, vos droits additionnels relatifs à ces données.
+- Rectifier vos données – Vous pouvez nous demander de corriger certaines informations que vous jugez fausses. Vous pouvez également demander de compléter des informations que vous jugez incomplètes.
+- Effacer vos données – Vous avez le droit de nous demander d’effacer vos données personnelles. Cela peut cependant limiter les fonctionnalités de l’application.
+- Limiter le traitement de vos données – Vous pouvez nous demander de restreindre le traitement de vos données, sous certaines conditions. Cela peut cependant limiter les fonctionnalités de l’application.
+- S’opposer au traitement – Vous avez le droit de vous opposer à notre traitement de données.
+- Droit à la portabilité des données – Vous avez le droit de nous demander de transférer les données que nous avons collectées à une autre organisation, ou directement à vous. Ceci se fera dans un format .csv compatible.
+- Déposer une plainte – Vous pouvez déposer une plainte à une autorité de contrôle.
+Si vous voulez faire une requête, nous avons un mois pour vous répondre. Vous n’avez pas besoin de la justifier. N’hésitez pas à nous contacter.
