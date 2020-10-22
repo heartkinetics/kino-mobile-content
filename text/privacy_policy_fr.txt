@@ -1,5 +1,5 @@
 Données collectées
-----------------------
+------------------
 En acceptant ce contrat, l’utilisateur donne accès à HeartKinetics, et aux équipes cliniques référentes, aux données citées ci-après. 
 Elles sont divisées dans les catégories suivantes : 
 les informations et données à caractère personnel que l’utilisateur nous donne; 
@@ -28,13 +28,13 @@ Les données supplémentaires collectées permettent de proposer à nos utilisat
 
 
 Stockage des données
-----------------------
+--------------------
 Les données sont stockées à la fois sur le portable de l’usager et sur nos serveurs en ligne, physiquement situés en Europe.
 Elles sont supprimées lorsque l’utilisateur le demande. Pour cela, il lui suffit de se rendre dans son profil et de demander la suppression de ses données.
 
 
 Communication à des entreprises tierces
-----------------------
+---------------------------------------
 
 Vos données personnelles et médicales sont communiquées et partagées avec votre hôpital et les médecins que vous aurez renseigné dans votre profil. Ceci afin que votre équipe médicale puisse y avoir accès. Ils auront accès aux informations suivantes : 
 Nom, Prénom, Genre, Taille, Poids, Date de naissance, Nom de votre Médecin généraliste et de votre Cardiologue, les informations relatives à votre pathologie ainsi qu’à votre traitement, Les réponses des questionnaires standardisés auxquels vous avez répondu, y compris la date et l’heure à laquelle vous avez répondu au questionnaire, Aux données physiques et physiologiques des enregistrements de votre fonction cardiaque et respiratoire.
@@ -44,7 +44,7 @@ Vos données peuvent être traitées par des sous-traitants qui fournissent des 
 
 
 Transmission des données
-----------------------
+------------------------
 
 Les données ne seront pas transmises à d’autres entreprises que celles citées précédemment sans l’accord préalable de l’utilisateur, sauf si :
 Le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis
