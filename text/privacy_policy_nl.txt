@@ -1,0 +1,43 @@
+Verzamelde data
+------------------
+Door dit contract te aanvaarden, geeft de gebruiker toegang tot HeartKinetics, en tot de verwijzende klinische teams, tot de hieronder vermelde gegevens.
+Ze zijn onderverdeeld in de volgende categorieën:
+de informatie en persoonlijke gegevens die de gebruiker ons geeft;
+de gegevens en informatie die we verzamelen met behulp van de sensoren van de smartphone die worden aangestuurd door de applicatie;
+technische gegevens over het gebruik en de prestaties van de applicatie.
+
+We hebben de gepaste maatregelen genomen om ervoor te zorgen dat uw persoonsgegevens worden verwerkt in overeenstemming met de beveiligingsverplichtingen opgelegd door de PGRD-wetgeving.
+
+
+Gegevensverwerking
+----------------------
+De verzamelde persoonsgegevens worden gebruikt om de gebruiker te identificeren en hem te koppelen aan de fysieke gegevens over zijn hart- en longfunctie die hij helpt verzamelen.
+Onderwerpidentificatie wordt gedaan door een account aan te maken, waarvoor de gebruikersnaam en het e-mailadres nodig zijn.
+De versnellingsmeters en gyroscopen van de telefoon worden gebruikt om de trillingen in de ribbenkast van de gebruiker te meten die worden gegenereerd door hun vitale fysiologische processen: hun hartcontracties en de beweging van het bloed nadat het is uitgeworpen, evenals hun ademhalingsfunctie.
+De volgende gegevens worden berekend:
+Bereik van ademhalingsbewegingen en hun frequentie
+Hartslag en hartslagvariatie
+Kracht, kinetische energie en kracht van hartcontractie
+Verdeling van energiedichtheid tijdens de hartcyclus
+Instanties die betrekking hebben op de verschillende fasen van de hartcyclus
+De volgende aanvullende gegevens worden verzameld en gebruikt om de kwaliteit van de verwerking van patiëntgegevens te verbeteren en deze te personaliseren:
+Het merk, model en versienummer van de mobiele telefoon; ze stellen ons in staat om er informatie over op te halen, zoals de fysieke kenmerken (afmetingen en gewicht), waardoor we onze gegevens kunnen kalibreren.
+Met tijd- en datumgegevens kan de patiënt zijn opnames bijhouden. De overige persoonlijke informatie wordt gebruikt om de berekende waarden te analyseren.
+Geolocatiegegevens bieden een globale context van de meting. We zouden dus bijvoorbeeld de geografische spreiding van hartpathologieën kunnen bestuderen.
+De aanvullende verzamelde gegevens stellen ons in staat om onze gebruikers een krachtig platform en een gepersonaliseerde ervaring te bieden. Ze stellen ons ook in staat om nieuwe diensten te ontwikkelen.
+
+
+Data opslag
+--------------------
+De gegevens worden zowel op de laptop van de gebruiker als op onze online servers opgeslagen, fysiek in Europa.
+Ze worden verwijderd wanneer de gebruiker daarom vraagt. Om dit te doen, hoeft hij alleen maar naar zijn profiel te gaan en om verwijdering van zijn gegevens te verzoeken.
+
+
+Communicatie met derden
+---------------------------------------
+
+Uw persoonlijke en medische gegevens worden gecommuniceerd en gedeeld met uw ziekenhuis en de artsen die u in uw profiel heeft ingevuld. Dit is zodat uw medisch team er toegang toe heeft. Ze hebben toegang tot de volgende informatie:
+Achternaam, Voornaam, Geslacht, Lengte, Gewicht, Geboortedatum, Naam van uw huisarts en uw Cardioloog, gegevens over uw pathologie en uw behandeling, Antwoorden op de gestandaardiseerde vragenlijsten waarop u heeft geantwoord, inclusief de datum en tijd waarop u de vragenlijst heeft beantwoord, Fysieke en fysiologische gegevens van de opnames van uw hart- en ademhalingsfunctie.
+Alleen het verplegende en bevoegde personeel van het ziekenhuis waarbij u zich bij inschrijving heeft aangemeld, hebben toegang tot uw persoonsgegevens.
+De fysieke en fysiologische gegevens met betrekking tot uw hart- en longfunctie worden anoniem verwerkt; dit betekent dat ze worden ontdaan van elk element waardoor ze aan uw profiel kunnen worden gekoppeld. Ze zullen dan beschikbaar worden gesteld aan het HeartKinetics-personeel en aan wetenschappelijke teams die deelnemen aan validatiestudies en ook deelnemen aan het verbeteren van onze oplossingen. Ze kunnen ook worden gebruikt voor statistische onderzoeken om de voordelen van de oplossing te benadrukken. In geen geval worden uw persoonlijke en medische gegevens aan derden doorgegeven.
+Uw gegevens kunnen worden verwerkt door onderaannemers die namens en in opdracht van ons diensten verlenen, zoals bijvoorbeeld databasemanagers. We garanderen dat deze providers alleen toegang hebben tot uw gegevens voor zover dit nodig is om hun taken uit te voeren. We garanderen ook dat ze gebonden zijn aan een geheimhoudingsplicht en dat ze de
