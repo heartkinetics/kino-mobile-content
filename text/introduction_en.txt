@@ -1,0 +1,8 @@
+Respecting the privacy of our users and securing their data is the subject of the utmost attention by HeartKinetics, publisher of the OKCARDIO mobile application. This privacy policy contains information about the data collected and stored by HeartKinetics using the OKCARDIO mobile application, as well as how it is used.
+The mobile application that you start to use on the recommendation of your hospital or medical care institution (hereinafter 'HOSPITAL') establishes a link between you and this Hospital that you have authorized to access your clinical and personal data. The purpose of this declaration is to inform you about the conditions for collecting and processing your personal data when you use this IT solution and the associated services, hereinafter referred to jointly as “application” or “OKCARDIO”. This privacy policy only applies to this mobile application. You can consult this document at any time by going to your profile where you will find a link to this declaration.
+
+If you have any additional questions or need more information, please do not hesitate to contact us by email at: info @ okcardio.com
+You can also contact our data protection officer at privacy @ okcardio.com
+By using our app, you agree to this privacy policy and consent to the use of your clinical data as part of the clinical protocol presented to you.
+The GDPR requires that information about your rights over your data be communicated to you in a concise, transparent, understandable manner, in simple terms. This declaration pursues this objective.
+If you are a minor, you have the right to ask for a simple and understandable explanation of the gist of this statement: do not hesitate to ask us for this explanation.
