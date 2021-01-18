@@ -3,924 +3,987 @@
 	"name": "Questionnaire sur l’insuffisance cardiaque (Kansas City)",
 	"description": "Ce questionnaire concerne votre insuffisance cardiaque et les effets qu’elle peut avoir sur votre vie de tous les jours. Veuillez lire et compléter les questions suivantes. Il n’y a pas de bonnes ou mauvaises réponses. Choisissez simplement la réponse qui correspond le mieux à votre cas. L’insuffisance cardiaque affecte différentes personnes de différentes manières. Certains souffrent d’essoufflements, tandis que d’autres ressentent de la fatigue.",
 	"instructions": null,
-	"questions": [
+	"categories": [
 		{
-			"id": "q1",
+			"id": "c1",
 			"order": 1,
-			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à vous habiller ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
+			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "votre capacité à vous habiller ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
 					}
-				]
-			}
+				},
+				{
+					"id": "q2",
+					"order": 2,
+					"text": "votre capacité à prendre une douche/un bain ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q3",
+					"order": 3,
+					"text": "votre capacité à marcher environ 100 mètres sur terrain plat ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q4",
+					"order": 4,
+					"text": "votre capacité à faire du jardinage, le ménage, ou porter les courses ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q5",
+					"order": 5,
+					"text": "votre capacité à monter une volée d'escalier ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q6",
+					"order": 6,
+					"text": "votre capacité à faire du jogging ou vous dépêcher (comme pour ne pas manquer un bus) ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
+					}
+				}
+			]
 		},
 		{
-			"id": "q2",
+			"id": "c2",
 			"order": 2,
-			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à prendre une douche/un bain ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
+			"text": "Par rapport à il y a 2 semaines, vos symptômes d’insuffisance cardiaque (par exemple, essoufflement, fatigue ou gonflement des chevilles)",
+			"questions": [
+				{		
+					"id": "q1",
+					"order": 1,
+					"text": "ont-ils changé ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Ils se sont fortement aggravés",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Ils se sont un peu aggravés",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Ils n'ont pas changé",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Ils se sont un peu améliorés",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Ils se sont fortement améliorés",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Pas de symptôme ces 2 dernières semaines",
+								"value": 5
+							}
+						]
 					}
-				]
-			}
+				}
+			]
 		},
 		{
-			"id": "q3",
+			"id": "c3",
 			"order": 3,
-			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à marcher environ 100 mètres sur terrain plat ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
+			"text": "Ces 2 dernières semaines,",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "combien de fois vous êtes-vous réveillé(e), le matin, avec les chevilles, les jambes ou les pieds gonflés ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Tous les matins",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Au moins 3 fois par semaine mais pas tous les jours",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "1 à 2 fois par semaine",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Moins d'une fois par semaine",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas une fois ces 2 dernières semaines",
+								"value": 4
+							}
+						]
 					}
-				]
-			}
+				},
+				{
+					"id": "q2",
+					"order": 2,
+					"text": "dans quelle mesure avez-vous été gêné(e) par le gonflement de vos pieds, chevilles ou jambes ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement gêné(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement gêné(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement gêné(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu gêné(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout gêné(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Pas de gonflement",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q3",
+					"order": 3,
+					"text": "combien de fois la fatigue a-t-elle limité votre capacité à faire ce que vous vouliez ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Tout le temps",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Plusieurs fois par jour",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Au moins une fois par jour",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Au moins 3 fois par semaine mais pas tous les jours",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "1 à 2 fois par semaine",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Moins d'une fois par semaine",
+								"value": 5
+							},
+							{
+								"order": 7,
+								"text": "Pas une fois ces 2 dernières semaines",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q4",
+					"order": 4,
+					"text": "dans quelle mesure la fatigue vous a-t-elle gêné(e) ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement gêné(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement gêné(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement gêné(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu gêné(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout gêné(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Pas de fatigue",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q5",
+					"order": 5,
+					"text": "en moyenne, combien de fois un essoufflement a-t-il limité votre capacité à faire ce que vous vouliez ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Tout le temps",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Plusieurs fois par jour",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Au moins une fois par jour",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Au moins 3 fois par semaine mais pas tous les jours",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "1 à 2 fois par semaine",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Moins d'une fois par semaine",
+								"value": 5
+							},
+							{
+								"order": 7,
+								"text": "Pas une fois ces 2 dernières semaines",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q6",
+					"order": 6,
+					"text": "dans quelle mesure votre essoufflement vous a-t-il gêné(e) ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement gêné(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement gêné(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement gêné(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu gêné(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout gêné(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Pas d'essoufflement",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q7",
+					"order": 7,
+					"text": "en moyenne, combien de fois avez-vous dû dormir assis(e) dans un fauteuil ou soutenu(e) par au moins 3 oreillers à cause de problèmes d’essoufflement ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Toutes les nuits",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Au moins 3 fois par semaine mais pas toutes les nuits",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "1 à 2 fois par semaine",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Moins d'une fois par semaine",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas une fois ces 2 dernières semaines",
+								"value": 4
+							}
+						]
+					}
+				}
+			]
 		},
 		{
-			"id": "q4",
+			"id": "c4",
 			"order": 4,
-			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à faire du jardinage, le ménage, ou porter les courses ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
+			"text": "Les symptômes d’insuffisance cardiaque peuvent s’aggraver pour diverses raisons.",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "Dans quelle mesure êtes-vous sûr(e) de savoir quoi faire ou qui appeler si votre insuffisance cardiaque s’aggrave ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Pas du tout sûr(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Pas très sûr(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Assez sûr(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Presque sûr(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Tout à fait sûr(e)",
+								"value": 4
+							}
+						]
 					}
-				]
-			}
+				}
+			]
 		},
 		{
-			"id": "q5",
+			"id": "c5",
 			"order": 5,
-			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à monter une volée d'escalier ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
+			"text": "Dans quelle mesure comprenez-vous ce que vous pouvez faire pour éviter",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "que les symptômes liés à votre insuffisance cardiaque s’aggravent (par exemple, vous peser régulièrement, suivre un régime pauvre en sel, etc.) ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Je ne comprends pas du tout",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Je ne comprends pas très bien",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Je comprends assez bien",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Je comprends plutôt bien",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Je comprends très bien",
+								"value": 4
+							}
+						]
 					}
-				]
-			}
+				}
+			]
 		},
 		{
-			"id": "q6",
+			"id": "c6",
 			"order": 6,
-			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans votre capacité à faire du jogging ou vous dépêcher (comme pour ne pas manquer un bus) ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
+			"text": "Ces 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque vous a-t-elle",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "empêché(e) de profiter de la vie ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Énormément",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Beaucoup",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout",
+								"value": 4
+							}
+						]
 					}
-				]
-			}
+				}
+			]
 		},
 		{
-			"id": "q7",
+			"id": "c7",
 			"order": 7,
-			"text": "Par rapport à il y a 2 semaines, vos symptômes d’insuffisance cardiaque (par exemple, essoufflement, fatigue ou gonflement des chevilles) ont-ils changé ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Ils se sont fortement aggravés",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Ils se sont un peu aggravés",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Ils n'ont pas changé",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Ils se sont un peu améliorés",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Ils se sont fortement améliorés",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Pas de symptôme ces 2 dernières semaines",
-						"value": 5
+			"text": "Si vous deviez passer le reste de votre vie dans votre état actuel d’insuffisance cardiaque,",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "quel serait votre sentiment à ce sujet ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Pas du tout satisfait(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Plutôt insatisfait(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Assez satisfait(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Plutôt satisfait(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Tout à fait satisfait(e)",
+								"value": 4
+							}
+						]
 					}
-				]
-			}
+				}
+			]
 		},
 		{
-			"id": "q8",
+			"id": "c8",
 			"order": 8,
-			"text": "Ces 2 dernières semaines, combien de fois vous êtes-vous réveillé(e), le matin, avec les chevilles, les jambes ou les pieds gonflés ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Tous les matins",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Au moins 3 fois par semaine mais pas tous les jours",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "1 à 2 fois par semaine",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Moins d'une fois par semaine",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas une fois ces 2 dernières semaines",
-						"value": 4
+			"text": "Ces 2 dernières semaines, vous êtes vous senti(e)",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "découragé(e) ou déprimé(e) à cause de votre insuffisance cardiaque ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Tout le temps",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "La plupart du temps",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "De temps en temps",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Rarement",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Jamais",
+								"value": 4
+							}
+						]
 					}
-				]
-			}
+				}
+			]
 		},
 		{
-			"id": "q9",
+			"id": "c9",
 			"order": 9,
-			"text": "Ces 2 dernières semaines, dans quelle mesure avez-vous été gêné(e) par le gonflement de vos pieds, chevilles ou jambes ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement gêné(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement gêné(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement gêné(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu gêné(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout gêné(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Pas de gonflement",
-						"value": 5
+			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "votre participtation à des loisirs et hobbies ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
 					}
-				]
-			}
-		},
-		{
-			"id": "q10",
-			"order": 10,
-			"text": "Ces 2 dernières semaines, en moyenne, combien de fois la fatigue a-t-elle limité votre capacité à faire ce que vous vouliez ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Tout le temps",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Plusieurs fois par jour",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Au moins une fois par jour",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Au moins 3 fois par semaine mais pas tous les jours",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "1 à 2 fois par semaine",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Moins d'une fois par semaine",
-						"value": 5
-					},
-					{
-						"order": 7,
-						"text": "Pas une fois ces 2 dernières semaines",
-						"value": 5
+				},
+				{
+					"id": "q2",
+					"order": 2,
+					"text": "votre participtation à des activités professionnelles ou tâches ménagères ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
 					}
-				]
-			}
-		},
-		{
-			"id": "q11",
-			"order": 11,
-			"text": "Ces 2 dernières semaines, dans quelle mesure la fatigue vous a-t-elle gêné(e) ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement gêné(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement gêné(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement gêné(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu gêné(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout gêné(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Pas de fatigue",
-						"value": 5
+				},
+				{
+					"id": "q3",
+					"order": 3,
+					"text": "vos visites à des parents ou à des amis ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
 					}
-				]
-			}
-		},
-		{
-			"id": "q12",
-			"order": 12,
-			"text": "Ces 2 dernières semaines, en moyenne, combien de fois un essoufflement a-t-il limité votre capacité à faire ce que vous vouliez ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Tout le temps",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Plusieurs fois par jour",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Au moins une fois par jour",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Au moins 3 fois par semaine mais pas tous les jours",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "1 à 2 fois par semaine",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Moins d'une fois par semaine",
-						"value": 5
-					},
-					{
-						"order": 7,
-						"text": "Pas une fois ces 2 dernières semaines",
-						"value": 5
+				},
+				{
+					"id": "q4",
+					"order": 4,
+					"text": "vos relations intimes ou sexuelles ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Extrêmement limité(e)",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Nettement limité(e)",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Moyennement limité(e)",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Un peu limité(e)",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Pas du tout limité(e)",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
+								"value": 5
+							}
+						]
 					}
-				]
-			}
-		},
-		{
-			"id": "q13",
-			"order": 13,
-			"text": "Ces 2 dernières semaines, dans quelle mesure votre essoufflement vous a-t-il gêné(e) ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement gêné(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement gêné(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement gêné(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu gêné(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout gêné(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Pas d'essoufflement",
-						"value": 5
-					}
-				]
-			}
-		},
-		{
-			"id": "q14",
-			"order": 14,
-			"text": "Ces 2 dernières semaines, en moyenne, combien de fois avez-vous dû dormir assis(e) dans un fauteuil ou soutenu(e) par au moins 3 oreillers à cause de problèmes d’essoufflement ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Toutes les nuits",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Au moins 3 fois par semaine mais pas toutes les nuits",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "1 à 2 fois par semaine",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Moins d'une fois par semaine",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas une fois ces 2 dernières semaines",
-						"value": 4
-					}
-				]
-			}
-		},
-		{
-			"id": "q15",
-			"order": 15,
-			"text": "Les symptômes d’insuffisance cardiaque peuvent s’aggraver pour diverses raisons. Dans quelle mesure êtes-vous sûr(e) de savoir quoi faire ou qui appeler si votre insuffisance cardiaque s’aggrave ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Pas du tout sûr(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Pas très sûr(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Assez sûr(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Presque sûr(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Tout à fait sûr(e)",
-						"value": 4
-					}
-				]
-			}
-		},
-		{
-			"id": "q16",
-			"order": 16,
-			"text": "Dans quelle mesure comprenez-vous ce que vous pouvez faire pour éviter que les symptômes liés à votre insuffisance cardiaque s’aggravent (par exemple, vous peser régulièrement, suivre un régime pauvre en sel, etc.) ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Je ne comprends pas du tout",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Je ne comprends pas très bien",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Je comprends assez bien",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Je comprends plutôt bien",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Je comprends très bien",
-						"value": 4
-					}
-				]
-			}
-		},
-		{
-			"id": "q17",
-			"order": 17,
-			"text": "Ces 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque vous a-t-elle empêché(e) de profiter de la vie ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Énormément",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Beaucoup",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout",
-						"value": 4
-					}
-				]
-			}
-		},
-		{
-			"id": "q18",
-			"order": 18,
-			"text": "Si vous deviez passer le reste de votre vie dans votre état actuel d’insuffisance cardiaque, quel serait votre sentiment à ce sujet ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Pas du tout satisfait(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Plutôt insatisfait(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Assez satisfait(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Plutôt satisfait(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Tout à fait satisfait(e)",
-						"value": 4
-					}
-				]
-			}
-		},
-		{
-			"id": "q19",
-			"order": 19,
-			"text": "Ces 2 dernières semaines, vous êtes vous senti(e) découragé(e) ou déprimé(e) à cause de votre insuffisance cardiaque ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Tout le temps",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "La plupart du temps",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "De temps en temps",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Rarement",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Jamais",
-						"value": 4
-					}
-				]
-			}
-		},
-		{
-			"id": "q20",
-			"order": 20,
-			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter votre participtation à des loisirs et hobbies ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
-					}
-				]
-			}
-		},
-		{
-			"id": "q21",
-			"order": 21,
-			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter votre participtation à des activités professionnelles ou tâches ménagères ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
-					}
-				]
-			}
-		},
-		{
-			"id": "q22",
-			"order": 22,
-			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter vos visites à des parents ou à des amis ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
-					}
-				]
-			}
-		},
-		{
-			"id": "q23",
-			"order": 23,
-			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter vos relations intimes ou sexuelles ?",
-			"responseRequired": true,
-			"responseType": "single-choice",
-			"response": {
-				"choices": [
-					{
-						"order": 1,
-						"text": "Extrêmement limité(e)",
-						"value": 0
-					},
-					{
-						"order": 2,
-						"text": "Nettement limité(e)",
-						"value": 1
-					},
-					{
-						"order": 3,
-						"text": "Moyennement limité(e)",
-						"value": 2
-					},
-					{
-						"order": 4,
-						"text": "Un peu limité(e)",
-						"value": 3
-					},
-					{
-						"order": 5,
-						"text": "Pas du tout limité(e)",
-						"value": 4
-					},
-					{
-						"order": 6,
-						"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
-						"value": 5
-					}
-				]
-			}
+				}
+			]
 		}
 	]
 }
