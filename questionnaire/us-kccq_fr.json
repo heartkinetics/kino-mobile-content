@@ -263,7 +263,7 @@
 			"text": "Par rapport à il y a 2 semaines, vos symptômes d’insuffisance cardiaque (par exemple, essoufflement, fatigue ou gonflement des chevilles)",
 			"questions": [
 				{		
-					"id": "q1",
+					"id": "q7",
 					"order": 1,
 					"text": "ont-ils changé ?",
 					"responseRequired": true,
@@ -311,7 +311,7 @@
 			"text": "Ces 2 dernières semaines,",
 			"questions": [
 				{
-					"id": "q1",
+					"id": "q8",
 					"order": 1,
 					"text": "combien de fois vous êtes-vous réveillé(e), le matin, avec les chevilles, les jambes ou les pieds gonflés ?",
 					"responseRequired": true,
@@ -347,7 +347,7 @@
 					}
 				},
 				{
-					"id": "q2",
+					"id": "q9",
 					"order": 2,
 					"text": "dans quelle mesure avez-vous été gêné(e) par le gonflement de vos pieds, chevilles ou jambes ?",
 					"responseRequired": true,
@@ -388,7 +388,7 @@
 					}
 				},
 				{
-					"id": "q3",
+					"id": "q10",
 					"order": 3,
 					"text": "combien de fois la fatigue a-t-elle limité votre capacité à faire ce que vous vouliez ?",
 					"responseRequired": true,
@@ -434,7 +434,7 @@
 					}
 				},
 				{
-					"id": "q4",
+					"id": "q11",
 					"order": 4,
 					"text": "dans quelle mesure la fatigue vous a-t-elle gêné(e) ?",
 					"responseRequired": true,
@@ -475,7 +475,7 @@
 					}
 				},
 				{
-					"id": "q5",
+					"id": "q12",
 					"order": 5,
 					"text": "en moyenne, combien de fois un essoufflement a-t-il limité votre capacité à faire ce que vous vouliez ?",
 					"responseRequired": true,
@@ -521,7 +521,7 @@
 					}
 				},
 				{
-					"id": "q6",
+					"id": "q13",
 					"order": 6,
 					"text": "dans quelle mesure votre essoufflement vous a-t-il gêné(e) ?",
 					"responseRequired": true,
@@ -562,7 +562,7 @@
 					}
 				},
 				{
-					"id": "q7",
+					"id": "q14",
 					"order": 7,
 					"text": "en moyenne, combien de fois avez-vous dû dormir assis(e) dans un fauteuil ou soutenu(e) par au moins 3 oreillers à cause de problèmes d’essoufflement ?",
 					"responseRequired": true,
@@ -605,7 +605,7 @@
 			"text": "Les symptômes d’insuffisance cardiaque peuvent s’aggraver pour diverses raisons.",
 			"questions": [
 				{
-					"id": "q1",
+					"id": "q15",
 					"order": 1,
 					"text": "Dans quelle mesure êtes-vous sûr(e) de savoir quoi faire ou qui appeler si votre insuffisance cardiaque s’aggrave ?",
 					"responseRequired": true,
@@ -648,7 +648,7 @@
 			"text": "Dans quelle mesure comprenez-vous ce que vous pouvez faire pour éviter",
 			"questions": [
 				{
-					"id": "q1",
+					"id": "q16",
 					"order": 1,
 					"text": "que les symptômes liés à votre insuffisance cardiaque s’aggravent (par exemple, vous peser régulièrement, suivre un régime pauvre en sel, etc.) ?",
 					"responseRequired": true,
@@ -691,7 +691,7 @@
 			"text": "Ces 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque vous a-t-elle",
 			"questions": [
 				{
-					"id": "q1",
+					"id": "q17",
 					"order": 1,
 					"text": "empêché(e) de profiter de la vie ?",
 					"responseRequired": true,
@@ -734,7 +734,7 @@
 			"text": "Si vous deviez passer le reste de votre vie dans votre état actuel d’insuffisance cardiaque,",
 			"questions": [
 				{
-					"id": "q1",
+					"id": "q18",
 					"order": 1,
 					"text": "quel serait votre sentiment à ce sujet ?",
 					"responseRequired": true,
@@ -777,7 +777,7 @@
 			"text": "Ces 2 dernières semaines, vous êtes vous senti(e)",
 			"questions": [
 				{
-					"id": "q1",
+					"id": "q19",
 					"order": 1,
 					"text": "découragé(e) ou déprimé(e) à cause de votre insuffisance cardiaque ?",
 					"responseRequired": true,
@@ -820,7 +820,7 @@
 			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter",
 			"questions": [
 				{
-					"id": "q1",
+					"id": "q20",
 					"order": 1,
 					"text": "votre participtation à des loisirs et hobbies ?",
 					"responseRequired": true,
@@ -861,7 +861,7 @@
 					}
 				},
 				{
-					"id": "q2",
+					"id": "q21",
 					"order": 2,
 					"text": "votre participtation à des activités professionnelles ou tâches ménagères ?",
 					"responseRequired": true,
@@ -902,7 +902,7 @@
 					}
 				},
 				{
-					"id": "q3",
+					"id": "q22",
 					"order": 3,
 					"text": "vos visites à des parents ou à des amis ?",
 					"responseRequired": true,
@@ -943,7 +943,7 @@
 					}
 				},
 				{
-					"id": "q4",
+					"id": "q23",
 					"order": 4,
 					"text": "vos relations intimes ou sexuelles ?",
 					"responseRequired": true,
