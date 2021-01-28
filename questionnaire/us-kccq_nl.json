@@ -3,6 +3,987 @@
 	"name": "De Hartfalen-vragenlijst (Kansas City)",
 	"description": "De volgende vragen hebben betrekking op uw hartfalen en hoe dit uw leven kan beïnvloeden. Lees en beantwoord alstublieft de volgende vragen. Er zijn geen juiste of foute antwoorden. Kruis het antwoord aan dat het best bij u past. Hartfalen beïnvloedt verschillende mensen op verschillende manieren. Sommigen zijn voornamelijk kortademig, anderen voelen zich voornamelijk moe en lusteloos.",
 	"instructions": null,
-	"questions": [
+	"categories": [
+		{
+			"id": "c1",
+			"order": 1,
+			"text": "Hartfalen beïnvloedt verschillende mensen op verschillende manieren. Sommigen zijn voornamelijk kortademig, anderen voelen zich voornamelijk moe en lusteloos. Geef alstublieft aan in welke mate hartfalen (bijvoorbeeld kortademigheid of vermoeidheid en lusteloosheid) u heeft beperkt in uw vermogen om de volgende bezigheden te doen gedurende de afgelopen 2 weken.",
+			"questions": [
+				{
+					"id": "q1",
+					"order": 1,
+					"text": "Zich aankleden ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erf beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal niet beperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q2",
+					"order": 2,
+					"text": "Zich douchen/een bad nemen ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erf beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal niet beperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q3",
+					"order": 3,
+					"text": "Ongeveer honderd meter op vlakke grond stappen ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erf beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal niet beperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q4",
+					"order": 4,
+					"text": "Tuinieren,huishoudelijke taken uitvoeren ofboodschappen dragen ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erf beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal niet beperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q5",
+					"order": 5,
+					"text": "Zonder te stoppen één verdieping de trap oplopen ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erf beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal niet beperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q6",
+					"order": 6,
+					"text": "Rennen of zich haasten (bv. om een bus tehalen) ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erf beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal niet beperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "c2",
+			"order": 2,
+			"text": "Zijn uw symptomen van hartfalen (bijvoorbeeld kortademigheid, vermoeidheid en lusteloosheid of gezwollen enkels) veranderd in vergelijking met 2 weken geleden ?",
+			"questions": [
+				{		
+					"id": "q7",
+					"order": 1,
+					"text": "Mijn symptomen van hartfalen zijn nu:",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Veel erger",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Een beetje  erger",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Niet  veranderd",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje  beter",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Veel  beter",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Geen symptomen gedurende de afgelopen 2 weken",
+								"value": 5
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "c3",
+			"order": 3,
+			"text": "In de afgelopen 2 weken",
+			"questions": [
+				{
+					"id": "q8",
+					"order": 1,
+					"text": "Hoeveel keer had u gedurende last van gezwollen voeten, enkels of benen toen u ’s morgens wakker werd ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Elke morgen",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "3 keer of meer per week, maar niet elke dag",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "1 tot 2 keer per week",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Minder dan 1 keer per week",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Nooit gedurende de afgelopen 2 weken",
+								"value": 4
+							}
+						]
+					}
+				},
+				{
+					"id": "q9",
+					"order": 2,
+					"text": "Hoe storend vond u gedurende uw gezwollen voeten, enkels of benen ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel ergstorend",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij storend",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig storend",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetjestorend",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal nietstorend",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Ik had geen last van zwellingen",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q10",
+					"order": 3,
+					"text": "Hoeveel keer, gemiddeld genomen, heeft vermoeidheid en lusteloosheid uw vermogen beperkt om te doen wat u wilde gedurende ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Voortdurend ",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Meerdere keren  per dag",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Ten minste  1 keer per dag",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "3 keer of meer per week, maar niet elke dag",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "1 tot 2 keer per week",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Minder dan  1 keer per week",
+								"value": 5
+							},
+							{
+								"order": 7,
+								"text": "Nooit gedurende de afgelopen 2 weken",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q11",
+					"order": 4,
+					"text": "Hoe storend vond u gedurende uw vermoeidheid en lusteloosheid ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel ergstorend",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrijstorend",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matigstorend",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een  beetje storend",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal niet storend",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Ik had geen last van vermoeidheid en lusteloosheid",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q12",
+					"order": 5,
+					"text": "Hoeveel keer, gemiddeld genomen, heeft kortademigheid uw vermogen beperkt om te doen wat u wilde gedurende ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Voortdurend ",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Meerdere keren  per dag",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Ten minste  1 keer per dag",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "3 keer of meer per week, maar niet elke dag",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "1 tot 2 keer per week",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Minder dan  1 keer per week",
+								"value": 5
+							},
+							{
+								"order": 7,
+								"text": "Nooit gedurende de afgelopen 2 weken",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q13",
+					"order": 6,
+					"text": "Hoe storend vond u uw kortademigheid gedurende ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel ergstorend",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij storend",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig storend",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetjestorend",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal nietstorend",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Ik had geen last van  kort-ademigheid",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q14",
+					"order": 7,
+					"text": "Hoeveel keer, gemiddeld genomen, moest u door kortademigheid zittend in een zetel slapen of met ten minste 3 kussens in uw rug om u te ondersteunen gedurende ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Elke nacht",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "3 keer of meer per week, maar niet elke nacht",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "1 tot 2 keer per week",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Minder dan 1 keer per week",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Nooit gedurende de afgelopen 2 weken",
+								"value": 4
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "c4",
+			"order": 4,
+			"text": "Symptomen   van   hartfalen kunnen erger worden door verschillende oorzaken.",
+			"questions": [
+				{
+					"id": "q15",
+					"order": 1,
+					"text": "Hoe zeker bent u ervan dat u weet wat u moet doen of wie u moet bellen indien uw hartfalen erger wordt ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Helemaal nietzeker",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Niet ergzeker",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Enigszins zeker",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Grotendeels zeker",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaalzeker",
+								"value": 4
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "c5",
+			"order": 5,
+			"text": " Hoe goed begrijpt u wat u zelf kunt doen om te vermijden",
+			"questions": [
+				{
+					"id": "q16",
+					"order": 1,
+					"text": "dat de symptomen van uw hartfalenerger worden (bijv. uzelf regelmatig wegen, een zoutarm dieet volgen, enz.) ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Ik begrijp het helemaal niet",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Ik begrijp het niet erg goed",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Ik begrijp het enigszins",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Ik begrijp het grotendeels",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Ik begrijp het helemaal",
+								"value": 4
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "c6",
+			"order": 6,
+			"text": "In hoeverre heeft uw hartfalen uw levensvreugde beperkt",
+			"questions": [
+				{
+					"id": "q17",
+					"order": 1,
+					"text": "gedurende de afgelopen 2 weken ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erg beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal nietbeperkt",
+								"value": 4
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "c7",
+			"order": 7,
+			"text": "Hoe zou u zich voelen als u de rest van uw leven zou moeten doorbrengen",
+			"questions": [
+				{
+					"id": "q18",
+					"order": 1,
+					"text": "met uw hartfalenzoals het nu is ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Helemaal ontevreden",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Grotendeels ontevreden",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Enigszins tevreden",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Grotendeels tevreden",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal tevreden",
+								"value": 4
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "c8",
+			"order": 8,
+			"text": "Hoe vaak hebt u zich ontmoedigd of neerslachtig gevoeld wegens uw hartfalen",
+			"questions": [
+				{
+					"id": "q19",
+					"order": 1,
+					"text": "gedurende de afgelopen 2 weken ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Voortdurend",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Meestal",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Af en toe",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Zelden",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Nooit",
+								"value": 4
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "c9",
+			"order": 9,
+			"text": "In welke mate beïnvloedt uw hartfalen uw manier van leven? Geef alstublieft aan hoe uw hartfalen eventueel uw deelname aan de volgende bezigheden beperkt heeft gedurende de afgelopen 2 weken.",
+			"questions": [
+				{
+					"id": "q20",
+					"order": 1,
+					"text": "Hobby’s, vrijetijdsbesteding ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erg beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal nietbeperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q21",
+					"order": 2,
+					"text": "Werk / huishoudelijke taken of klusjes uitvoeren ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erg beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal nietbeperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q22",
+					"order": 3,
+					"text": "Familie of vrienden gaan bezoeken ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erg beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal nietbeperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				},
+				{
+					"id": "q23",
+					"order": 4,
+					"text": "Intieme of seksuele relaties ?",
+					"responseRequired": true,
+					"responseType": "single-choice",
+					"response": {
+						"choices": [
+							{
+								"order": 1,
+								"text": "Heel erg beperkt",
+								"value": 0
+							},
+							{
+								"order": 2,
+								"text": "Vrij beperkt",
+								"value": 1
+							},
+							{
+								"order": 3,
+								"text": "Matig beperkt",
+								"value": 2
+							},
+							{
+								"order": 4,
+								"text": "Een beetje beperkt",
+								"value": 3
+							},
+							{
+								"order": 5,
+								"text": "Helemaal nietbeperkt",
+								"value": 4
+							},
+							{
+								"order": 6,
+								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"value": 5
+							}
+						]
+					}
+				}
+			]
+		}
 	]
 }
