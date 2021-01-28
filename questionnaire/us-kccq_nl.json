@@ -313,7 +313,7 @@
 				{
 					"id": "q8",
 					"order": 1,
-					"text": "Hoeveel keer had u gedurende last van gezwollen voeten, enkels of benen toen u ’s morgens wakker werd ?",
+					"text": "Hoeveel keer had u van gezwollen voeten, enkels of benen toen u ’s morgens wakker werd ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
@@ -349,7 +349,7 @@
 				{
 					"id": "q9",
 					"order": 2,
-					"text": "Hoe storend vond u gedurende uw gezwollen voeten, enkels of benen ?",
+					"text": "Hoe storend vond u uw gezwollen voeten, enkels of benen ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
@@ -390,7 +390,7 @@
 				{
 					"id": "q10",
 					"order": 3,
-					"text": "Hoeveel keer, gemiddeld genomen, heeft vermoeidheid en lusteloosheid uw vermogen beperkt om te doen wat u wilde gedurende ?",
+					"text": "Hoeveel keer, gemiddeld genomen, heeft vermoeidheid en lusteloosheid uw vermogen beperkt om te doen wat u wilde ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
@@ -436,7 +436,7 @@
 				{
 					"id": "q11",
 					"order": 4,
-					"text": "Hoe storend vond u gedurende uw vermoeidheid en lusteloosheid ?",
+					"text": "Hoe storend vond u uw vermoeidheid en lusteloosheid ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
@@ -477,7 +477,7 @@
 				{
 					"id": "q12",
 					"order": 5,
-					"text": "Hoeveel keer, gemiddeld genomen, heeft kortademigheid uw vermogen beperkt om te doen wat u wilde gedurende ?",
+					"text": "Hoeveel keer, gemiddeld genomen, heeft kortademigheid uw vermogen beperkt om te doen wat u wilde ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
@@ -523,7 +523,7 @@
 				{
 					"id": "q13",
 					"order": 6,
-					"text": "Hoe storend vond u uw kortademigheid gedurende ?",
+					"text": "Hoe storend vond u uw kortademigheid ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
@@ -564,7 +564,7 @@
 				{
 					"id": "q14",
 					"order": 7,
-					"text": "Hoeveel keer, gemiddeld genomen, moest u door kortademigheid zittend in een zetel slapen of met ten minste 3 kussens in uw rug om u te ondersteunen gedurende ?",
+					"text": "Hoeveel keer, gemiddeld genomen, moest u door kortademigheid zittend in een zetel slapen of met ten minste 3 kussens in uw rug om u te ondersteunen ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
