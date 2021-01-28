@@ -1,50 +1,50 @@
 {
-	"id": "us-kccq_nl",
-	"name": "De Hartfalen-vragenlijst (Kansas City)",
-	"description": "De volgende vragen hebben betrekking op uw hartfalen en hoe dit uw leven kan beïnvloeden. Lees en beantwoord alstublieft de volgende vragen. Er zijn geen juiste of foute antwoorden. Kruis het antwoord aan dat het best bij u past. Hartfalen beïnvloedt verschillende mensen op verschillende manieren. Sommigen zijn voornamelijk kortademig, anderen voelen zich voornamelijk moe en lusteloos.",
+	"id": "us-kccq_en",
+	"name": "TO BE EDITED",
+	"description": "TO BE EDITED",
 	"instructions": null,
 	"categories": [
 		{
 			"id": "c1",
 			"order": 1,
-			"text": "Hartfalen beïnvloedt verschillende mensen op verschillende manieren. Sommigen zijn voornamelijk kortademig, anderen voelen zich voornamelijk moe en lusteloos. Geef alstublieft aan in welke mate hartfalen (bijvoorbeeld kortademigheid of vermoeidheid en lusteloosheid) u heeft beperkt in uw vermogen om de volgende bezigheden te doen gedurende de afgelopen 2 weken.",
+			"text": "Au cours des 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque (par exemple, essoufflement ou fatigue) vous a limité(e) dans",
 			"questions": [
 				{
 					"id": "q1",
 					"order": 1,
-					"text": "Zich aankleden ?",
+					"text": "votre capacité à vous habiller ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erf beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal niet beperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -53,39 +53,39 @@
 				{
 					"id": "q2",
 					"order": 2,
-					"text": "Zich douchen/een bad nemen ?",
+					"text": "votre capacité à prendre une douche/un bain ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erf beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal niet beperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -94,39 +94,39 @@
 				{
 					"id": "q3",
 					"order": 3,
-					"text": "Ongeveer honderd meter op vlakke grond stappen ?",
+					"text": "votre capacité à marcher environ 100 mètres sur terrain plat ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erf beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal niet beperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -135,39 +135,39 @@
 				{
 					"id": "q4",
 					"order": 4,
-					"text": "Tuinieren,huishoudelijke taken uitvoeren ofboodschappen dragen ?",
+					"text": "votre capacité à faire du jardinage, le ménage, ou porter les courses ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erf beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal niet beperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -176,39 +176,39 @@
 				{
 					"id": "q5",
 					"order": 5,
-					"text": "Zonder te stoppen één verdieping de trap oplopen ?",
+					"text": "votre capacité à monter une volée d'escalier ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erf beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal niet beperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -217,39 +217,39 @@
 				{
 					"id": "q6",
 					"order": 6,
-					"text": "Rennen of zich haasten (bv. om een bus tehalen) ?",
+					"text": "votre capacité à faire du jogging ou vous dépêcher (comme pour ne pas manquer un bus) ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erf beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal niet beperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -260,44 +260,44 @@
 		{
 			"id": "c2",
 			"order": 2,
-			"text": "Zijn uw symptomen van hartfalen (bijvoorbeeld kortademigheid, vermoeidheid en lusteloosheid of gezwollen enkels) veranderd in vergelijking met 2 weken geleden ?",
+			"text": "Par rapport à il y a 2 semaines, vos symptômes d’insuffisance cardiaque (par exemple, essoufflement, fatigue ou gonflement des chevilles)",
 			"questions": [
 				{		
 					"id": "q7",
 					"order": 1,
-					"text": "Mijn symptomen van hartfalen zijn nu:",
+					"text": "ont-ils changé ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Veel erger",
+								"text": "Ils se sont fortement aggravés",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Een beetje  erger",
+								"text": "Ils se sont un peu aggravés",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Niet  veranderd",
+								"text": "Ils n'ont pas changé",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje  beter",
+								"text": "Ils se sont un peu améliorés",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Veel  beter",
+								"text": "Ils se sont fortement améliorés",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Geen symptomen gedurende de afgelopen 2 weken",
+								"text": "Pas de symptôme ces 2 dernières semaines",
 								"value": 5
 							}
 						]
@@ -308,39 +308,39 @@
 		{
 			"id": "c3",
 			"order": 3,
-			"text": "In de afgelopen 2 weken",
+			"text": "Ces 2 dernières semaines,",
 			"questions": [
 				{
 					"id": "q8",
 					"order": 1,
-					"text": "Hoeveel keer had u van gezwollen voeten, enkels of benen toen u ’s morgens wakker werd ?",
+					"text": "combien de fois vous êtes-vous réveillé(e), le matin, avec les chevilles, les jambes ou les pieds gonflés ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Elke morgen",
+								"text": "Tous les matins",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "3 keer of meer per week, maar niet elke dag",
+								"text": "Au moins 3 fois par semaine mais pas tous les jours",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "1 tot 2 keer per week",
+								"text": "1 à 2 fois par semaine",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Minder dan 1 keer per week",
+								"text": "Moins d'une fois par semaine",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Nooit gedurende de afgelopen 2 weken",
+								"text": "Pas une fois ces 2 dernières semaines",
 								"value": 4
 							}
 						]
@@ -349,39 +349,39 @@
 				{
 					"id": "q9",
 					"order": 2,
-					"text": "Hoe storend vond u uw gezwollen voeten, enkels of benen ?",
+					"text": "dans quelle mesure avez-vous été gêné(e) par le gonflement de vos pieds, chevilles ou jambes ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel ergstorend",
+								"text": "Extrêmement gêné(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij storend",
+								"text": "Nettement gêné(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig storend",
+								"text": "Moyennement gêné(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetjestorend",
+								"text": "Un peu gêné(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal nietstorend",
+								"text": "Pas du tout gêné(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Ik had geen last van zwellingen",
+								"text": "Pas de gonflement",
 								"value": 5
 							}
 						]
@@ -390,44 +390,44 @@
 				{
 					"id": "q10",
 					"order": 3,
-					"text": "Hoeveel keer, gemiddeld genomen, heeft vermoeidheid en lusteloosheid uw vermogen beperkt om te doen wat u wilde ?",
+					"text": "combien de fois la fatigue a-t-elle limité votre capacité à faire ce que vous vouliez ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Voortdurend ",
+								"text": "Tout le temps",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Meerdere keren  per dag",
+								"text": "Plusieurs fois par jour",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Ten minste  1 keer per dag",
+								"text": "Au moins une fois par jour",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "3 keer of meer per week, maar niet elke dag",
+								"text": "Au moins 3 fois par semaine mais pas tous les jours",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "1 tot 2 keer per week",
+								"text": "1 à 2 fois par semaine",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Minder dan  1 keer per week",
+								"text": "Moins d'une fois par semaine",
 								"value": 5
 							},
 							{
 								"order": 7,
-								"text": "Nooit gedurende de afgelopen 2 weken",
+								"text": "Pas une fois ces 2 dernières semaines",
 								"value": 5
 							}
 						]
@@ -436,39 +436,39 @@
 				{
 					"id": "q11",
 					"order": 4,
-					"text": "Hoe storend vond u uw vermoeidheid en lusteloosheid ?",
+					"text": "dans quelle mesure la fatigue vous a-t-elle gêné(e) ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel ergstorend",
+								"text": "Extrêmement gêné(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrijstorend",
+								"text": "Nettement gêné(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matigstorend",
+								"text": "Moyennement gêné(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een  beetje storend",
+								"text": "Un peu gêné(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal niet storend",
+								"text": "Pas du tout gêné(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Ik had geen last van vermoeidheid en lusteloosheid",
+								"text": "Pas de fatigue",
 								"value": 5
 							}
 						]
@@ -477,44 +477,44 @@
 				{
 					"id": "q12",
 					"order": 5,
-					"text": "Hoeveel keer, gemiddeld genomen, heeft kortademigheid uw vermogen beperkt om te doen wat u wilde ?",
+					"text": "en moyenne, combien de fois un essoufflement a-t-il limité votre capacité à faire ce que vous vouliez ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Voortdurend ",
+								"text": "Tout le temps",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Meerdere keren  per dag",
+								"text": "Plusieurs fois par jour",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Ten minste  1 keer per dag",
+								"text": "Au moins une fois par jour",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "3 keer of meer per week, maar niet elke dag",
+								"text": "Au moins 3 fois par semaine mais pas tous les jours",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "1 tot 2 keer per week",
+								"text": "1 à 2 fois par semaine",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Minder dan  1 keer per week",
+								"text": "Moins d'une fois par semaine",
 								"value": 5
 							},
 							{
 								"order": 7,
-								"text": "Nooit gedurende de afgelopen 2 weken",
+								"text": "Pas une fois ces 2 dernières semaines",
 								"value": 5
 							}
 						]
@@ -523,39 +523,39 @@
 				{
 					"id": "q13",
 					"order": 6,
-					"text": "Hoe storend vond u uw kortademigheid ?",
+					"text": "dans quelle mesure votre essoufflement vous a-t-il gêné(e) ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel ergstorend",
+								"text": "Extrêmement gêné(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij storend",
+								"text": "Nettement gêné(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig storend",
+								"text": "Moyennement gêné(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetjestorend",
+								"text": "Un peu gêné(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal nietstorend",
+								"text": "Pas du tout gêné(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Ik had geen last van  kort-ademigheid",
+								"text": "Pas d'essoufflement",
 								"value": 5
 							}
 						]
@@ -564,34 +564,34 @@
 				{
 					"id": "q14",
 					"order": 7,
-					"text": "Hoeveel keer, gemiddeld genomen, moest u door kortademigheid zittend in een zetel slapen of met ten minste 3 kussens in uw rug om u te ondersteunen ?",
+					"text": "en moyenne, combien de fois avez-vous dû dormir assis(e) dans un fauteuil ou soutenu(e) par au moins 3 oreillers à cause de problèmes d’essoufflement ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Elke nacht",
+								"text": "Toutes les nuits",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "3 keer of meer per week, maar niet elke nacht",
+								"text": "Au moins 3 fois par semaine mais pas toutes les nuits",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "1 tot 2 keer per week",
+								"text": "1 à 2 fois par semaine",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Minder dan 1 keer per week",
+								"text": "Moins d'une fois par semaine",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Nooit gedurende de afgelopen 2 weken",
+								"text": "Pas une fois ces 2 dernières semaines",
 								"value": 4
 							}
 						]
@@ -602,39 +602,39 @@
 		{
 			"id": "c4",
 			"order": 4,
-			"text": "Symptomen   van   hartfalen kunnen erger worden door verschillende oorzaken.",
+			"text": "Les symptômes d’insuffisance cardiaque peuvent s’aggraver pour diverses raisons.",
 			"questions": [
 				{
 					"id": "q15",
 					"order": 1,
-					"text": "Hoe zeker bent u ervan dat u weet wat u moet doen of wie u moet bellen indien uw hartfalen erger wordt ?",
+					"text": "Dans quelle mesure êtes-vous sûr(e) de savoir quoi faire ou qui appeler si votre insuffisance cardiaque s’aggrave ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Helemaal nietzeker",
+								"text": "Pas du tout sûr(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Niet ergzeker",
+								"text": "Pas très sûr(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Enigszins zeker",
+								"text": "Assez sûr(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Grotendeels zeker",
+								"text": "Presque sûr(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaalzeker",
+								"text": "Tout à fait sûr(e)",
 								"value": 4
 							}
 						]
@@ -645,39 +645,39 @@
 		{
 			"id": "c5",
 			"order": 5,
-			"text": " Hoe goed begrijpt u wat u zelf kunt doen om te vermijden",
+			"text": "Dans quelle mesure comprenez-vous ce que vous pouvez faire pour éviter",
 			"questions": [
 				{
 					"id": "q16",
 					"order": 1,
-					"text": "dat de symptomen van uw hartfalenerger worden (bijv. uzelf regelmatig wegen, een zoutarm dieet volgen, enz.) ?",
+					"text": "que les symptômes liés à votre insuffisance cardiaque s’aggravent (par exemple, vous peser régulièrement, suivre un régime pauvre en sel, etc.) ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Ik begrijp het helemaal niet",
+								"text": "Je ne comprends pas du tout",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Ik begrijp het niet erg goed",
+								"text": "Je ne comprends pas très bien",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Ik begrijp het enigszins",
+								"text": "Je comprends assez bien",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Ik begrijp het grotendeels",
+								"text": "Je comprends plutôt bien",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Ik begrijp het helemaal",
+								"text": "Je comprends très bien",
 								"value": 4
 							}
 						]
@@ -688,39 +688,39 @@
 		{
 			"id": "c6",
 			"order": 6,
-			"text": "In hoeverre heeft uw hartfalen uw levensvreugde beperkt",
+			"text": "Ces 2 dernières semaines, dans quelle mesure votre insuffisance cardiaque vous a-t-elle",
 			"questions": [
 				{
 					"id": "q17",
 					"order": 1,
-					"text": "gedurende de afgelopen 2 weken ?",
+					"text": "empêché(e) de profiter de la vie ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erg beperkt",
+								"text": "Énormément",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Beaucoup",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal nietbeperkt",
+								"text": "Pas du tout",
 								"value": 4
 							}
 						]
@@ -731,39 +731,39 @@
 		{
 			"id": "c7",
 			"order": 7,
-			"text": "Hoe zou u zich voelen als u de rest van uw leven zou moeten doorbrengen",
+			"text": "Si vous deviez passer le reste de votre vie dans votre état actuel d’insuffisance cardiaque,",
 			"questions": [
 				{
 					"id": "q18",
 					"order": 1,
-					"text": "met uw hartfalenzoals het nu is ?",
+					"text": "quel serait votre sentiment à ce sujet ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Helemaal ontevreden",
+								"text": "Pas du tout satisfait(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Grotendeels ontevreden",
+								"text": "Plutôt insatisfait(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Enigszins tevreden",
+								"text": "Assez satisfait(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Grotendeels tevreden",
+								"text": "Plutôt satisfait(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal tevreden",
+								"text": "Tout à fait satisfait(e)",
 								"value": 4
 							}
 						]
@@ -774,39 +774,39 @@
 		{
 			"id": "c8",
 			"order": 8,
-			"text": "Hoe vaak hebt u zich ontmoedigd of neerslachtig gevoeld wegens uw hartfalen",
+			"text": "Ces 2 dernières semaines, vous êtes vous senti(e)",
 			"questions": [
 				{
 					"id": "q19",
 					"order": 1,
-					"text": "gedurende de afgelopen 2 weken ?",
+					"text": "découragé(e) ou déprimé(e) à cause de votre insuffisance cardiaque ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Voortdurend",
+								"text": "Tout le temps",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Meestal",
+								"text": "La plupart du temps",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Af en toe",
+								"text": "De temps en temps",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Zelden",
+								"text": "Rarement",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Nooit",
+								"text": "Jamais",
 								"value": 4
 							}
 						]
@@ -817,44 +817,44 @@
 		{
 			"id": "c9",
 			"order": 9,
-			"text": "In welke mate beïnvloedt uw hartfalen uw manier van leven? Geef alstublieft aan hoe uw hartfalen eventueel uw deelname aan de volgende bezigheden beperkt heeft gedurende de afgelopen 2 weken.",
+			"text": "Au cours des 2 dernières semaines, comment votre insuffisance cardiaque a pu limiter",
 			"questions": [
 				{
 					"id": "q20",
 					"order": 1,
-					"text": "Hobby’s, vrijetijdsbesteding ?",
+					"text": "votre participtation à des loisirs et hobbies ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erg beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal nietbeperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -863,39 +863,39 @@
 				{
 					"id": "q21",
 					"order": 2,
-					"text": "Werk / huishoudelijke taken of klusjes uitvoeren ?",
+					"text": "votre participtation à des activités professionnelles ou tâches ménagères ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erg beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal nietbeperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -904,39 +904,39 @@
 				{
 					"id": "q22",
 					"order": 3,
-					"text": "Familie of vrienden gaan bezoeken ?",
+					"text": "vos visites à des parents ou à des amis ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erg beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal nietbeperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
@@ -945,39 +945,39 @@
 				{
 					"id": "q23",
 					"order": 4,
-					"text": "Intieme of seksuele relaties ?",
+					"text": "vos relations intimes ou sexuelles ?",
 					"responseRequired": true,
 					"responseType": "single-choice",
 					"response": {
 						"choices": [
 							{
 								"order": 1,
-								"text": "Heel erg beperkt",
+								"text": "Extrêmement limité(e)",
 								"value": 0
 							},
 							{
 								"order": 2,
-								"text": "Vrij beperkt",
+								"text": "Nettement limité(e)",
 								"value": 1
 							},
 							{
 								"order": 3,
-								"text": "Matig beperkt",
+								"text": "Moyennement limité(e)",
 								"value": 2
 							},
 							{
 								"order": 4,
-								"text": "Een beetje beperkt",
+								"text": "Un peu limité(e)",
 								"value": 3
 							},
 							{
 								"order": 5,
-								"text": "Helemaal nietbeperkt",
+								"text": "Pas du tout limité(e)",
 								"value": 4
 							},
 							{
 								"order": 6,
-								"text": "Om andere redenen beperkt of heb de bezigheid niet gedaan",
+								"text": "Limité(e) pour d'autres raisons ou n'ai pas fait cette activité",
 								"value": 5
 							}
 						]
